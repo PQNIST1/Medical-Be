@@ -9,7 +9,7 @@ This is a Node.js backend project using **Express.js** and **Socket.IO** to buil
 - [📦 Tech Stack](#tech-stack)
 - [🗂️ Project Structure](#project-structure)
 - [⚙️ Getting Started](#getting-started)
-- [▶  Run the Server](#️run-the-server)
+- [Run the Server](#️run-the-server)
 
 ---
 
@@ -196,7 +196,7 @@ Example:
 PORT=3000
 ```
 
-## ▶️ Running the Server  <a name="run-the-server"></a>
+## Running the Server  <a name="run-the-server"></a>
 ```bash
 npm start
 ```
