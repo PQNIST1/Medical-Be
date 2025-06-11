@@ -6,14 +6,14 @@ This is a Node.js backend project using **Express.js** and **Socket.IO** to buil
 
 ## 📚 Table of Contents
 
-- [📦 Tech Stack](#-tech-stack)
-- [🗂️ Project Structure](#-project-structure)
-- [⚙️ Getting Started](#-getting-started)
-- [▶️ Run the Server](#️-run-the-server)
+- [📦 Tech Stack](#tech-stack)
+- [🗂️ Project Structure](#project-structure)
+- [⚙️ Getting Started](#getting-started)
+- [▶️ Run the Server](#️run-the-server)
 
 ---
 
-## 📦 Tech Stack
+## 📦 Tech Stack <a name="tech-stack"></a>
 
 - Node.js
 - Express.js
@@ -24,7 +24,7 @@ This is a Node.js backend project using **Express.js** and **Socket.IO** to buil
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure <a name="project-structure"></a>
 ```plaintext
 Medical-Be
 ├── app.js
@@ -177,7 +177,7 @@ Medical-Be
     └── index.ejs
 ```
 
-## ⚙️ Getting Started
+## ⚙️ Getting Started  <a name="getting-started"></a>
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/your-express-repo.git
@@ -196,7 +196,7 @@ Example:
 PORT=3000
 ```
 
-## ▶️ Running the Server
+## ▶️ Running the Server <a name="run-the-server"></a>
 ```bash
 npm start
 ```
