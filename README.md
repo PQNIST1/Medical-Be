@@ -175,32 +175,31 @@ Medical-Be
 └── views
     ├── error.ejs
     └── index.ejs
-
+```
 
 ## ⚙️ Getting Started
 ### 1. Clone the repository
----bash
+```bash
 git clone https://github.com/your-username/your-express-repo.git
----
----bash
+```
+```bash
 cd Medical-Be
----
+```
 
 ### 2. Install dependencies
----bash
+```bash
 npm install
----
-
+```
 ### 3. Configure environment variables
 Example:
----bash
+```bash
 PORT=3000
----
+```
 
 ## ▶️ Running the Server
----bash
+```bash
 npm start
----
+```
 The server will run at: http://localhost:3000
 
 
